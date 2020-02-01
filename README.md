@@ -6,3 +6,5 @@ There is no actual practicle use for this repo, but it was a nice intro to getti
 
 This can also be a heading rather than using # you can use a line of: "="
 ============
+
+all in all this was a simple process and over time with consistent exposure and practice, effective skills will be developed.
